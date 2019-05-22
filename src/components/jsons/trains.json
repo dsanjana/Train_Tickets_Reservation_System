@@ -1,0 +1,47 @@
+[
+  {
+      "_id": "5ce3b4c4b20e7c3304b78e91",
+      "tno": "3",
+      "tname": "Podi Menike",
+      "sstation": "Colombo Fort",
+      "estation": "Badulla",
+      "stime": "05:55",
+      "etime": "16:00",
+      "type": "Express",
+      "frequency": "Daily",
+      "from": "Colombo Fort",
+      "qty": "2990",
+      "price": "300",
+      "__v": 0
+  },
+  {
+      "_id": "5ce3b5ffb20e7c3304b78e95",
+      "tno": "7",
+      "tname": "Udarata Menike",
+      "sstation": "Colombo Fort",
+      "estation": "Badulla",
+      "stime": "09:45",
+      "etime": "19:45",
+      "type": "Express",
+      "frequency": "Daily",
+      "from": "Colombo Fort",
+      "qty": "1500",
+      "price": "350",
+      "__v": 0
+  },
+  {
+      "_id": "5ce3b632b20e7c3304b78e96",
+      "tno": "8",
+      "tname": "Night Mail",
+      "sstation": "Colombo Fort",
+      "estation": "Badulla",
+      "stime": "20:00",
+      "etime": "07:10",
+      "type": "Express",
+      "frequency": "Daily",
+      "from": "Colombo Fort",
+      "qty": "1000",
+      "price": "250",
+      "__v": 0
+  }
+]
